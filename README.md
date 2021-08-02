@@ -22,9 +22,6 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 #### Once eeeeeeeeeeeeeeeeeeeeeeee
 <img align="center" src="https://user-images.githubusercontent.com/62319355/121278485-3f5cd500-c905-11eb-8c89-77172cc2ad13.png" alt="ODBC_set_up">
 
-#### CCCCCCCCCCCCCCCCCCCCCCCCCCCCC
-<img align="center" src="https://user-images.githubusercontent.com/62319355/121278560-6c10ec80-c905-11eb-983b-662b62110897.png" alt="SSL_enable">
-
 
 
 
@@ -46,7 +43,7 @@ For option 2(connect PowerBi to Excel file on Sharepoint), follow the steps belo
 
 ```
 
-
+# Option 3.
 
 
 
