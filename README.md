@@ -10,11 +10,13 @@ Contact: rainmankim@gmail.com
 ```
 
 ```
-In this repository, I am going to show you on the following:
-- test
-- test 2
-
+There are 3 main ways in which you can connect to Sharepoint Data:
+Option 1. Connect from PowerBI to Sharepoint directly
+Option 2. Connect from PowerBI to Sharepoint Excel
+Option 3. Connect from PowerBI to synced OneDriver Folder
 ```
+
+
 
 
 
