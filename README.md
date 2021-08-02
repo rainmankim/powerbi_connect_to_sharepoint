@@ -12,10 +12,13 @@ Option 1. Connect from PowerBI to Sharepoint directly
 Option 2. Connect from PowerBI to Sharepoint Excel
 Option 3. Connect from PowerBI to synced OneDriver Folder
 ```
-# Option 1.
+
+### Before you proceed, 
 
 
-### Step 0. TTTTTTTTTTTTTTTTTTTTTTTTTT
+# Option 1.Connect from PowerBI to Sharepoint directly
+
+
 Please download the latest version of ODBC Driver <br/>
 https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 
