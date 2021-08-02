@@ -4,10 +4,7 @@
 
 
 
-```
-Author: Ray Kim
-Contact: rainmankim@gmail.com
-```
+
 
 ```
 There are 3 main ways in which you can connect to Sharepoint Data:
@@ -15,6 +12,8 @@ Option 1. Connect from PowerBI to Sharepoint directly
 Option 2. Connect from PowerBI to Sharepoint Excel
 Option 3. Connect from PowerBI to synced OneDriver Folder
 ```
+# Option 1.
+
 
 ### Step 0. TTTTTTTTTTTTTTTTTTTTTTTTTT
 Please download the latest version of ODBC Driver <br/>
@@ -55,4 +54,8 @@ For option 2(connect PowerBi to Excel file on Sharepoint), follow the steps belo
 
 
 🎈🦾 😎 That's it from me. 
+```
+Author: Ray Kim
+https://www.linkedin.com/in/rainmankim/
+```
 --------------------------------------------------------------------------------------------------------------------------------------------------
