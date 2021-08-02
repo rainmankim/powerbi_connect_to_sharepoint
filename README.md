@@ -5,14 +5,22 @@
 
 
 ```
-Creator: Ray Kim Dong Hyun
+Author: Ray Kim
 Contact: rainmankim@gmail.com
+```
+
+```
+In this repository, I am going to show you on the following:
+- test
+- test 2
 
 ```
 
 
 
+
 ```
+This is for laterrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 In this repository, I am going to show you how to connect PowerBi to Excel file on Sharepoint in your organization.
 I will illustrate this in the following steps.
 (1) Upload an excel file on SharePoint
