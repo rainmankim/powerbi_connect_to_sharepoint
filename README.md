@@ -3,9 +3,6 @@
 :smile: :grinning: :sleepy: :relieved: :confused: :open_mouth: :astonished: :thumbsup:
 
 
-
-
-
 ```
 There are 3 main ways in which you can connect to Sharepoint Data:
 Option 1. Connect from PowerBI to Sharepoint directly
@@ -17,12 +14,14 @@ Option 3. Connect from PowerBI to synced OneDriver Folder
 #### This is because if you have previously attempted to establish connection and failed, you need to delete your previous configuration
 <img align="center" src="https://user-images.githubusercontent.com/62319355/127885748-1f6857da-7a8c-4fe5-b2ad-1bca3b922bb4.png" width="450"  alt="Excel logo">
 
-#### If you see an error message as shown above, you can clear data source settings. 
+#### If you see an error message as shown above, you can clear data source settings by following the steps below
 <img align="center" src="https://user-images.githubusercontent.com/62319355/127885756-34cc61f6-1cff-498a-a1e2-c70dcfb2f92f.png" width="450"  alt="Excel logo">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/127885767-ec8412ff-5e66-4274-b56a-ba7569bdb6e9.png" width="450"  alt="Excel logo">
+
+
 
 
 # Option 1.Connect from PowerBI to Sharepoint directly
-
 
 Please download the latest version of ODBC Driver <br/>
 https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
