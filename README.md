@@ -30,11 +30,10 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 
 
 
-
+# Option 3
 ```
-This is for laterrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
-In this repository, I am going to show you how to connect PowerBi to Excel file on Sharepoint in your organization.
-I will illustrate this in the following steps.
+For option 3(connect PowerBi to Excel file on Sharepoint), follow the steps below
+
 (1) Upload an excel file on SharePoint
 (2) Copy Path URL Link form excel "Info" tab of excel sheet
 (3)	Open PowerBI, select connect to data via Web
