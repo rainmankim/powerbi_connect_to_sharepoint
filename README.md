@@ -39,16 +39,17 @@ Now let us return to the main topic
 For option 2(connect PowerBi to Excel file on Sharepoint), follow the steps below
 
 (1) Upload an excel file on SharePoint
-(2) Copy Path URL Link form excel "Info" tab of excel sheet
-(3)	Open PowerBI, select connect to data via Web
+(2) Copy Path URL Link from details tab (refer to red circles in the picture)
+(3) Open PowerBI, select connect to data via Web
 	  Paste Path URL in Web box, be sure to remove any tailing characters beyond .xlsx extension
 (4) Upon connection set up, sign in using organizational account
 (5) Create Report, and publish to PowerBI Web
 (6) Open PowerBI Web and select Database related to Dashboard and enter the Database's settings
 	  Update user credentials for access to Web using OAuth2 and sign in using org.
 	  Update scheduling refresh per requirement and save
-
 ```
+<img align="center" src="https://user-images.githubusercontent.com/62319355/127948129-48a5ae28-63b1-4347-853a-428d9993de1c.PNG"   alt="Excel logo">
+
 
 # Option 3. Connect from PowerBI to synced OneDriver Folder
 
@@ -57,6 +58,7 @@ Option 3 is a simple process.
 On your OneDrive, click on "Sync".
 ```
 <img align="center" src="https://user-images.githubusercontent.com/62319355/127945680-c8dbdfcb-cc92-45f0-b493-c1688ec8e24f.PNG"   alt="Excel logo">
+
 
 #### Once OneDrive Folders are synced on your laptop, connect to your target folder/file as you would do for other files.
 --------------------------------------------------------------------------------------------------------------------------------------------------
