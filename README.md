@@ -51,7 +51,10 @@ For option 2(connect PowerBi to Excel file on Sharepoint), follow the steps belo
 ```
 
 # Option 3. Connect from PowerBI to synced OneDriver Folder
+```
+Option 3 is simply 
 
+```
 
 
 
