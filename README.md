@@ -26,6 +26,7 @@ Now let us return to the main topic
 <img align="center" src="https://user-images.githubusercontent.com/62319355/127897308-fb5b4786-2a7d-44ed-8c49-236cf9902848.PNG" width="450"  alt="Excel logo">
 <img align="center" src="https://user-images.githubusercontent.com/62319355/127898969-21b1ef7a-57ef-42f9-8f04-50e1266d5b27.PNG" width="450"  alt="Excel logo">
 
+<img align="center" src="https://user-images.githubusercontent.com/62319355/127943881-f7e805ff-a0aa-4606-8cba-cde6fb590c5d.PNG" width="450"  alt="Excel logo">
 
 
 
