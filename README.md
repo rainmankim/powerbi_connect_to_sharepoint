@@ -41,12 +41,13 @@ For option 2(connect PowerBi to Excel file on Sharepoint), follow the steps belo
 (1) Upload an excel file on SharePoint
 (2) Copy Path URL Link from details tab (refer to red circles in the picture)
 (3) Open PowerBI, select connect to data via Web
-	  Paste Path URL in Web box, be sure to remove any tailing characters beyond .xlsx extension
+    Paste Path URL in Web box, be sure to remove any tailing characters beyond .xlsx extension
 (4) Upon connection set up, sign in using organizational account
 (5) Create Report, and publish to PowerBI Web
 (6) Open PowerBI Web and select Database related to Dashboard and enter the Database's settings
-	  Update user credentials for access to Web using OAuth2 and sign in using org.
-	  Update scheduling refresh per requirement and save
+    Update user credentials for access to Web using OAuth2 and sign in using org.
+    Update scheduling refresh per requirement and save
+ For more details, refer to https://www.youtube.com/watch?v=YI6ey8EvIAI
 ```
 <img align="center" src="https://user-images.githubusercontent.com/62319355/127948129-48a5ae28-63b1-4347-853a-428d9993de1c.PNG"   alt="Excel logo">
 
