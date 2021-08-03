@@ -24,9 +24,9 @@ Now let us return to the main topic
 # Option 1. Connect from PowerBI to Sharepoint directly
 <img align="center" src="https://user-images.githubusercontent.com/62319355/127896639-535fc2c7-41e1-4af7-97c4-a89b3b0e409c.PNG" width="450"  alt="Excel logo">
 <img align="center" src="https://user-images.githubusercontent.com/62319355/127897308-fb5b4786-2a7d-44ed-8c49-236cf9902848.PNG" width="450"  alt="Excel logo">
-<img align="center" src="https://user-images.githubusercontent.com/62319355/127898969-21b1ef7a-57ef-42f9-8f04-50e1266d5b27.PNG" width="450"  alt="Excel logo">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/127898969-21b1ef7a-57ef-42f9-8f04-50e1266d5b27.PNG" width="550"  alt="Excel logo">
 
-<img align="center" src="https://user-images.githubusercontent.com/62319355/127944551-fc5454f9-5d35-45f5-bfb8-1dcbe4bb7055.PNG" width="450"  alt="Excel logo">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/127944551-fc5454f9-5d35-45f5-bfb8-1dcbe4bb7055.PNG" width="550"  alt="Excel logo">
 
 <img align="center" src="https://user-images.githubusercontent.com/62319355/127943886-4230bb12-dcd5-48f6-b819-11972610ee6f.PNG"   alt="Excel logo">
 
