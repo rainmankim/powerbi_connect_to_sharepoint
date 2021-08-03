@@ -51,10 +51,13 @@ For option 2(connect PowerBi to Excel file on Sharepoint), follow the steps belo
 ```
 
 # Option 3. Connect from PowerBI to synced OneDriver Folder
+
 ```
 Option 3 is simply 
 
 ```
+<img align="center" src="https://user-images.githubusercontent.com/62319355/127945680-c8dbdfcb-cc92-45f0-b493-c1688ec8e24f.PNG"   alt="Excel logo">
+
 
 
 
