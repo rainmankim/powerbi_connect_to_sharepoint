@@ -57,6 +57,7 @@ Option 3 is a simple process.
 On your OneDrive, click on "Sync".
 ```
 <img align="center" src="https://user-images.githubusercontent.com/62319355/127945680-c8dbdfcb-cc92-45f0-b493-c1688ec8e24f.PNG"   alt="Excel logo">
+
 #### Once OneDrive Folders are synced on your laptop, connect to your target folder/file as you would do for other files.
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
