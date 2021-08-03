@@ -53,13 +53,11 @@ For option 2(connect PowerBi to Excel file on Sharepoint), follow the steps belo
 # Option 3. Connect from PowerBI to synced OneDriver Folder
 
 ```
-Option 3 is a simple process. 
+Option 3 is a simple process.
 On your OneDrive, click on "Sync".
-Once OneDrive Folders are synced on your 
-
 ```
 <img align="center" src="https://user-images.githubusercontent.com/62319355/127945680-c8dbdfcb-cc92-45f0-b493-c1688ec8e24f.PNG"   alt="Excel logo">
-
+#### Once OneDrive Folders are synced on your laptop, connect to your target folder/file as you would do for other files.
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 
