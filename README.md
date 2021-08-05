@@ -7,7 +7,7 @@
 There are 3 main ways in which you can connect to Sharepoint Data:
 Option 1. Connect from PowerBI to Sharepoint directly
 Option 2. Connect from PowerBI to Sharepoint Excel
-Option 3. Connect from PowerBI to synced OneDriver Folder
+Option 3. Connect from PowerBI to synced OneDriver Folder (need personal Gateway to allow refresh on PowerBI Web)
 ```
 
 #### Before you proceed, you might want to clear existing permissions.
