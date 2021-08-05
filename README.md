@@ -1,4 +1,4 @@
-# Establishing Live PowerBI with Excel on Sharepoint 
+# How to connect from PowerBI to Sharepoint 
 <img align="right" src="https://user-images.githubusercontent.com/62319355/110085335-efcdb100-7dcb-11eb-9e9b-77f2849154a8.png" width="220" height="80" alt="Excel logo">
 :smile: :grinning: :sleepy: :relieved: :confused: :open_mouth: :astonished: :thumbsup:
 
